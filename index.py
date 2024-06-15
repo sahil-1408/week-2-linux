@@ -7,7 +7,7 @@ def restart_laptop():
     current_os = platform.system()
     
     # Print a message before restarting
-    print("The laptop will restart in 10 seconds. Please save your work.")
+    print("Please save your work.")
     
     # Wait for 10 seconds before restarting
     time.sleep(10)
